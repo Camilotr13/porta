@@ -11,7 +11,7 @@ const Hero = () => {
           <h2>Hello, I'm Juan Torres</h2>
           <p>Passionate web developer, focused on creating functional web applications using modern technologies.</p>
           <div className="hero-buttons">
-            <a href="/CVJuanCamilo.pdf" className="btn primary" download>
+            <a href="CVJuanCamilo.pdf" className="btn primary" download>
               Download CV
             </a>
             <div className="social-buttons">
